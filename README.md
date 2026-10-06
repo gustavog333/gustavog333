@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Engenharia da Computação no Instituto Nacional de Telecomunicações (INATEL), com interesse em desenvolvimento de software, tecnologia e resolução de problemas. Tenho perfil proativo, comprometido e comunicativo, além de facilidade para aprender novas ferramentas e tecnologias. Busco uma oportunidade na área de tecnologia para aplicar meus conhecimentos, desenvolver novas habilidades e contribuir com os resultados da equipe.
+Sou estudante de Engenharia de Computação no Instituto Nacional de Telecomunicações (INATEL), com interesse em desenvolvimento de software, tecnologia e resolução de problemas. Tenho perfil proativo, comprometido e comunicativo, além de facilidade para aprender novas ferramentas e tecnologias. Busco uma oportunidade na área de tecnologia para aplicar meus conhecimentos, desenvolver novas habilidades e contribuir com os resultados da equipe.
 
 ### 🤖 Linguagens e Tecnologias 
 <img
